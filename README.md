@@ -43,11 +43,13 @@ If I were to revisit this project, I would:
 
 ## 📂 Important Files
 Here are the key files in this repository:
-- `AI.cpp`: Contains the main implementation of the neural network (autoencoder).
-- `Byte.cpp`: Generates a list of byte-level differences between `.ogg` files to compact data further.
+- `TTS_AI.cpp`: Contains the main implementation of the neural network (autoencoder).
+- `TTS_AI_recreator.cpp`: Recreates the audio file from the network.
+- `TTS_Byte.cpp`: Generates a list of byte-level differences between `.ogg` files to compact data further.
 - Other files: Legacy code for auxiliary tasks (may require additional context).
 
 ⚠️ **Note**: The dataset used for training is not included in this repository to respect the privacy of the individual whose voice was recorded.
+**Also**: The current state is of when it was last used i.e. some important methods may be commented out.
 
 ## 🌟 Key Takeaways
 While this project didn't achieve its ultimate goal, it served as an excellent learning experience in neural network design, debugging, and understanding the nuances of machine learning workflows.
