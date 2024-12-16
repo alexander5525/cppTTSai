@@ -1,4 +1,3 @@
-# cppTTSai
 # C++ Text-to-Speech AI 🗣️🎶
 
 ## 📜 Description
