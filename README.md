@@ -50,6 +50,8 @@ Here are the key files in this repository:
 ⚠️ **Note**: The dataset used for training is not included in this repository to respect the privacy of the individual whose voice was recorded.
 **Also**: The current state is of when it was last used i.e. some important methods may be commented out.
 
+⚠️ **Disclaimer**: This code is published for educational and portfolio purposes. If you'd like to use or reference any part of it, please provide proper attribution or contact me for permission.
+
 ## 🌟 Key Takeaways
 While this project didn't achieve its ultimate goal, it served as an excellent learning experience in neural network design, debugging, and understanding the nuances of machine learning workflows.
 
